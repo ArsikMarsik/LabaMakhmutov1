@@ -1,0 +1,31 @@
+{
+	"Owner": {
+	  "Name": "Alexey",
+	  "Last_Name": "Sidorov",
+	  "Document": "passport",
+	  "NumberDocumnent": 456789,
+	  "Birth_Date": "15.07.1990",
+	  "Vechicle": [
+		{
+		  "Type": "Car",
+		  "Mark": "Toyota",
+		  "Model": "Corolla",
+		  "Color": "Black",
+		  "Year": 2020,
+		  "Body": "sedan",
+		  "VIN": 98765432101234567,
+		  "Damaged": true
+		},
+		{
+		  "Type": "Motorcycle",
+		  "Mark": "Yamaha",
+		  "Model": "YZF-R3",
+		  "Color": "Green",
+		  "Year": 2023,
+		  "Sport": true,
+		  "VIN": 1234567890123
+		}
+	  ]
+	}
+  }
+  
